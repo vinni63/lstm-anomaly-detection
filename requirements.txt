@@ -1,9 +1,9 @@
 streamlit>=1.34
-tensorflow-cpu==2.15.0
-numpy>=1.23,<1.26
-pandas>=2.1
-scikit-learn>=1.4
-matplotlib>=3.8
-plotly>=5.20
-joblib>=1.3
-pytest>=8.0
+tensorflow-cpu==2.16.1
+numpy>=1.26.0,<2.0.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+plotly>=5.20.0
+joblib>=1.3.0
+pytest>=8.0.0
