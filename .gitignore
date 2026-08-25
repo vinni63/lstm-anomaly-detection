@@ -9,7 +9,5 @@ __pycache__/
 .pytest_cache/
 data/raw/*.csv
 data/processed/*.csv
-models/*.keras
-models/*.pkl
 
 work/
