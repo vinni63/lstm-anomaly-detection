@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/*.csv
+data/processed/*.csv
+models/*.keras
+models/*.pkl
+
+work/

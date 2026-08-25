@@ -1,0 +1,9 @@
+{
+  "window_size": 30,
+  "threshold_percentile": 99.0,
+  "threshold": 4.668752136230469,
+  "train_rows": 600,
+  "validation_rows": 200,
+  "test_rows": 200,
+  "final_val_loss": 0.005696093663573265
+}
